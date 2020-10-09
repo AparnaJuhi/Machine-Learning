@@ -1,2 +1,2 @@
 # Machine-Learning
-It contains the Machine Learning codes which I have learnt in this summer.
+It contains the Machine Learning codes which I have practiced during my journey to Data Science.
